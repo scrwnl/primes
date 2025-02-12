@@ -1,2 +1,2 @@
 # primes
-暇だったので
+Fortranの学習用
